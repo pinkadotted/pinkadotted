@@ -1,1 +1,1 @@
-![Subesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkadotted&count_private=true)
+![Subesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkadotted&count_private=true&theme=dracula)
