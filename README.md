@@ -11,6 +11,8 @@ Feel free to hmu for a chat!
 
 (I'm graduating in May 2024 and am looking for full-time work opportunities in Singapore)
 
+[![Subesh's GitHub stats](https://github-readme-stats-one-zeta-78.vercel.app/api?username=pinkadotted)](https://github.com/pinkadotted/github-readme-stats)
+
  ## 🖥  Technology 
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
